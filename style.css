@@ -1,0 +1,63 @@
+body{
+    background-color: #eee1e1;
+}
+
+.navbar-brand{
+    font-size: 2em;
+    font-family: Trattatello, fantasy;
+    color: rgb(255, 123, 0);
+    text-shadow: 4px 4px 4px #f1eaea;
+}
+
+.montserrat-class {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.nav-item{
+    font-size: 17px;
+}
+
+.navbar{
+    align-items: center;
+    color: black;
+    padding: 0rem;
+    height: 60px;
+}
+
+.nav-link{
+    color: rgb(255, 123, 0);
+    font-family: "Montserrat", sans-serif;
+}
+
+.deals{
+    font-size: 2em;
+    padding-left: 20px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.deals-line{
+    padding-bottom: 5px;
+
+}
+
+.card-text{
+    font-size: 18px;
+}
+
+.card-body{
+    text-align: center;
+
+}
+
+.card{
+    padding: 0;
+    margin: 0;
+    
+}
+
+.card img{
+    height: 100%;
+    width: 100%;
+}
